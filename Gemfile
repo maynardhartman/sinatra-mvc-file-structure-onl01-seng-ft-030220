@@ -1,5 +1,6 @@
 source 'http://rubygems.org'
 
+gem 'activerecord'
 gem 'sinatra'
 gem 'tux'
 gem 'require_all'
